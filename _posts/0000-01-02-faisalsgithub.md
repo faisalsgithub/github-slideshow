@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Eevees are cute =w=
 Use the left arrow to go back!
